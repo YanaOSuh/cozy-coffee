@@ -6,7 +6,7 @@ Landing page for Coffee Shop named Cozy Coffee. Main page and also page with men
 
 - Live Site URL: [live site URL here](https://yanaos-cozy-coffee.netlify.app/)
 
-
+<img src="/mainPage.png" width="50%">
 
 ## Built with
 
